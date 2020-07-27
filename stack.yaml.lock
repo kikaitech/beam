@@ -33,13 +33,6 @@ packages:
   original:
     hackage: direct-sqlite-2.3.26@sha256:04e835402f1508abca383182023e4e2b9b86297b8533afbd4e57d1a5652e0c23,3718
 - completed:
-    hackage: haskell-src-exts-1.21.1@sha256:11d18ec3f463185f81b7819376b532e3087f8192cffc629aac5c9eec88897b35,4541
-    pantry-tree:
-      size: 95170
-      sha256: 487db8defe20a7c8bdf5b4a9a68ec616a4349bdb643f2dc7c9d71e1a6495c8c7
-  original:
-    hackage: haskell-src-exts-1.21.1@sha256:11d18ec3f463185f81b7819376b532e3087f8192cffc629aac5c9eec88897b35,4541
-- completed:
     hackage: network-2.8.0.1@sha256:0f165dffa752d8cde30c2bde86f80609c4f1dc5eeb3182d593041f97839c5b3b,3011
     pantry-tree:
       size: 2488
@@ -55,7 +48,7 @@ packages:
     hackage: sqlite-simple-0.4.18.0@sha256:3ceea56375c0a3590c814e411a4eb86943f8d31b93b110ca159c90689b6b39e5,3002
 snapshots:
 - completed:
-    size: 531718
-    url: https://raw.githubusercontent.com/commercialhaskell/stackage-snapshots/master/lts/16/6.yaml
-    sha256: 230a7266fc11f76222bd3bb68e9503ed11d553060a752f164bff6753ed03e271
-  original: lts-16.6
+    size: 531932
+    url: https://raw.githubusercontent.com/commercialhaskell/stackage-snapshots/master/lts/16/7.yaml
+    sha256: 96ceeddd4fd68b2d430f7695a12eadefee760b7034c88c75d99d0f380f483068
+  original: lts-16.7
